@@ -22,6 +22,7 @@
 //
 //
 // Updates by Bran Handley
+// https://github.com/stealthv/SwiftyJSON
 //
 
 import Foundation
